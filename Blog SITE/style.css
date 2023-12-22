@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #e0e0e0;
+}
+
+#header{
+    background-color: rgb(40, 40, 218);
+    text-align: center;
+    padding: 25px;
+}
+#navigation{
+    margin: 15px; 
+}
+#NomeLogo{
+    font-size: 25px;
+}
+#color{
+    color: white;
+}
+#navigation a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px;
+    transition: 0.5s;
+}
+#navigation a:hover{
+    background-color: aliceblue;
+    color: black;
+    
+}
+#footer{
+    background-color: rgb(40, 40, 218);
+    clear: both;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+
+
+
+
+
+#content{
+    width: 970px;
+    margin: 15px auto;
+    
+}
+#noticias{
+    margin: 0 auto;
+    width: 800px;
+    padding: 55px;
+    padding-top: 30px;
+   
+}
+.noticia img{
+    align-items: center;
+    width: 700px;
+    padding-top: 20px;
+   
+}
+.noticia{
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 45px;
+    padding: 40px 50px;
+}
+
+.noticia a:link{
+    border: 2px solid rgb(43, 70, 226);
+    padding: 5px;
+    text-decoration: none;
+    color: rgb(55, 43, 226);
+    font-size: 20px;
+
+}
+.noticia a:hover{
+    text-decoration: underline;
+   
+}
+.noticia a:active{
+    color: rgb(42, 0, 82);
+
+}
+
+
+
+
+    
