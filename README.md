@@ -9,5 +9,6 @@ Este é um blog fictício chamado 'EletroBlog', criado com o intuito de desenvol
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>PHP</li>
 </ul>
 </h1>
